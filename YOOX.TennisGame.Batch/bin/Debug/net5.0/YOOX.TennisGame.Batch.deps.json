@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YOOX.TennisGame.Batch/1.0.0": {
+        "dependencies": {
+          "YOOX.TennisGame.Sdk": "1.0.0"
+        },
+        "runtime": {
+          "YOOX.TennisGame.Batch.dll": {}
+        }
+      },
+      "YOOX.TennisGame.Sdk/1.0.0": {
+        "runtime": {
+          "YOOX.TennisGame.Sdk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YOOX.TennisGame.Batch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YOOX.TennisGame.Sdk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

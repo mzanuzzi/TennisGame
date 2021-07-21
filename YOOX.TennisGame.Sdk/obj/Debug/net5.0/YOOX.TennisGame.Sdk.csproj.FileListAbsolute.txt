@@ -1,0 +1,12 @@
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\bin\Debug\net5.0\YOOX.TennisGame.Sdk.deps.json
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\bin\Debug\net5.0\YOOX.TennisGame.Sdk.dll
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\bin\Debug\net5.0\ref\YOOX.TennisGame.Sdk.dll
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\bin\Debug\net5.0\YOOX.TennisGame.Sdk.pdb
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.csproj.AssemblyReference.cache
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.AssemblyInfoInputs.cache
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.AssemblyInfo.cs
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.dll
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\ref\YOOX.TennisGame.Sdk.dll
+C:\Users\mzanuzzi\source\repos\YOOX.TennisGame\YOOX.TennisGame.Sdk\obj\Debug\net5.0\YOOX.TennisGame.Sdk.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOOX.TennisGame.Sdk", "YOOX.TennisGame.Sdk\YOOX.TennisGame.Sdk.csproj", "{2618E075-5C59-4F19-B252-E2E36BAB2299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YOOX.TennisGame.Batch", "YOOX.TennisGame.Batch\YOOX.TennisGame.Batch.csproj", "{9DB449A6-CCF3-412B-9C1C-135ECE9CF624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2618E075-5C59-4F19-B252-E2E36BAB2299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2618E075-5C59-4F19-B252-E2E36BAB2299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2618E075-5C59-4F19-B252-E2E36BAB2299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2618E075-5C59-4F19-B252-E2E36BAB2299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB449A6-CCF3-412B-9C1C-135ECE9CF624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB449A6-CCF3-412B-9C1C-135ECE9CF624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB449A6-CCF3-412B-9C1C-135ECE9CF624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB449A6-CCF3-412B-9C1C-135ECE9CF624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAA0037-81C5-4147-AE31-F191532A0074}
+	EndGlobalSection
+EndGlobal
